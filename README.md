@@ -1,4 +1,6 @@
-# epages-mobile-wrapper
+# epages-native-mobile-wrapper
+
+![](https://drive.google.com/uc?export=download&id=0BwWdduICTQArVi1TdnJwc3U5UlE)
 
 Simple React-Native WebView wrapper for epages mobile shop.
 ## Local development
